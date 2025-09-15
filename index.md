@@ -9,7 +9,7 @@ Vocab
 <h2>CLI(command line inface)</h2>
     <h3>a text-based system for interacting with a computer by typing commands</h3>
 <h2>Terminal</h2>
-   <h3> a hardware device or software application that provides a text-based interface for users to interact with a computer or a remote system by entering commands and viewing results</h3>
+   <h3>a hardware device or software application that provides a text-based interface for users to interact with a computer or a remote system by entering commands and viewing results</h3>
 <h2>GUI(Graphical User Interface)</h2>
     <h3>a visual system for interacting with electronic devices using graphical elements like icons, buttons, and menus, instead of text-based commands</h3>
 <h2>IDE</h2>
@@ -17,5 +17,4 @@ Vocab
 <h2>VS code</h2>
     <h3>a free, versatile, and lightweight source code editor developed by Microsoft for various operating systems like Windows, macOS, and Linux</h3>
 <h2>Abstraction</h2>
-    <h3>the process of hiding the complex implementation details of a system or component and exposing only the essential information or functionality to the user or other parts of the system
-</h3>
+    <h3>the process of hiding the complex implementation details of a system or component and exposing only the essential information or functionality to the user or other parts of the system</h3>
