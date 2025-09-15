@@ -1,5 +1,6 @@
 # Journal
 Vocab
+<h1 align^center>Journal</h1>h1>
 <h1>Repository</h1>
    <h2>a place where things are or may be stored.</h2>
 <h1>Git</h1>
