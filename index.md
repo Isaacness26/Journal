@@ -1,4 +1,4 @@
-<h1 align^center>Journal</h1>
+# Journal
 Vocab
 <h2>Repository</h2>
    <h3>a place where things are or may be stored.</h3>
