@@ -1,4 +1,4 @@
-Journal
+# Journal
 Vocab
 <h1>Repository</h1>
    <h2>a place where things are or may be stored.</h2>
