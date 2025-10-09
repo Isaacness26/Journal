@@ -37,3 +37,9 @@ String
  a direct representation of a constant number within a computer program, written as a sequence of characters like digits and a decimal point
  function
  a named, self-contained block of code that performs a specific task, allowing you to write a set of instructions once and reuse it multiple times in a program
+OPERATORS
+a symbol that preforms a certain operation
+LOGICAL OPERATORS
+it makes statements like IF and ELSE
+ARITHMETIC OPERSTORS
+programming symbol that preforms common mathmatical operations
